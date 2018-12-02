@@ -14,7 +14,7 @@ Edges: The connection between the nodes. It represents a relationship between th
 # Creating a network using NetworkX
 There are many types of networks. We will use NetworkX to develop and analyze these different networks. To start, you will need to install networkX: You can use either:
 
-pip install networkx
+
 or if working in Anaconda
 
 conda install -c anaconda networkx
