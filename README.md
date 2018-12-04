@@ -4,7 +4,7 @@ Networks today are part of our everyday life. Let's see how to visualize and und
 # Introduction
 Let us first start with what do we mean by Social Networks. Below you see a network of Bollywood actors as nodes. They are connected with solid lines if they have worked together in at least one movie.
 
-So, we can see that both Amitabh Bachchan and Abhishek Bachchan have acted with all the actors in the network, while Akshay Kumar has worked with only two Bachchans. Interesting right!
+So, we can see that both Amitabh Bachchan and Abhishek Bachchan have acted with all the actors in the network, while Akshay Kumar has worked with only two Bachchans. 
 
 This too is a social network. Any network with connections between individuals, where the connections capture the relationship between them is a social network. Analyzing these networks can give us great insight about the people in the network like who are real influencers, who are most connected, etc.
 
