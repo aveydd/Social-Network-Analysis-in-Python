@@ -6,3 +6,4 @@ G_asymmetric.add_edge('D','E')
 
 nx.spring_layout(G_asymmetric)
 nx.draw_networkx(G_asymmetric)
+nx.draw_node(G_asymmetric)
